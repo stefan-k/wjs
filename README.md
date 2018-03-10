@@ -1,6 +1,6 @@
 # Copyrights
 
-Copyright mantis.jpg: Klaus Stiefel, https://www.flickr.com/photos/pacificklaus/4852217254 (not modified)
+Copyright mantis.jpg and mantis2.jpg: Klaus Stiefel, https://www.flickr.com/photos/pacificklaus/4852217254
 
 
 # Color
